@@ -1,4 +1,4 @@
-package service;
+package org.example.currencyExchanger.service;
 
 import org.example.currencyExchanger.dao.CurrencyDAO;
 import org.example.currencyExchanger.model.Currency;
